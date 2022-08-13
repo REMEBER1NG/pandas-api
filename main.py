@@ -3,7 +3,7 @@ If you have any suggestions of how i could make
 the code cleaner, please hit me up because i want
 to improve, also if you want me to make you a customized
 version of this program don't be afraid to email me: 
-> lonelyrl@protonmail.ch - thank you: enjoy :)
+> lonelyrl@protonmail.com - thank you: enjoy :)
 """
 
 import httpx
